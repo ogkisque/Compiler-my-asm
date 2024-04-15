@@ -1,0 +1,1 @@
+func0 ( , ( var0 ) ( ) ) ( ; ( if ( == ( var0 ) ( 1 ) ) ( ; ( return ( ) ( var0 ) ) ( ) ) ) ( ; ( if ( > ( var0 ) ( 1 ) ) ( ; ( = ( * ( var0 ) ( func0 ( , ( - ( var0 ) ( 1 ) ) ( ) ) ( ) ) ) ( var1 ) ) ( ; ( return ( ) ( var1 ) ) ( ) ) ) ) ( ) ) ) main ( ) ( ; ( input ( ) ( var2 ) ) ( ; ( = ( func0 ( , ( var2 ) ( ) ) ( ) ) ( var3 ) ) ( ; ( print ( ) ( var3 ) ) ( ) ) ) ) 
